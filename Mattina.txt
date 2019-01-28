@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Elenco attivit&agrave progetto Mattina</title>
+</head>
+<body>
+<table border>
+<caption><h1>Elenco attivit&agrave progetto Mattina</h1></caption>
+<thead>
+
+<tr>
+
+<th>Attivit&agrave</th><th>Svolgimento</th><th>Data scadenza/completamento</th>
+
+</tr>
+
+</thead>
+<tbody>
+<tr>
+
+<td>Fare colazione</td><td>100%</td><td>27-1-2019</td>
+</tr>
+
+<tr>
+
+<td>Portare a spasso il cane</td><td>0%</td><td>27-1-2019</td>
+</tr>
+
+<tr>
+
+<td>Sistemare la camera</td><td>85%</td><td>27-1-2019</td>
+</tr>
+
+</tbody>
+</table>
+</body>
+</html>
